@@ -1,3 +1,6 @@
+# Build Status
+
+[![Build Status](https://dev.azure.com/jyable/Space%20Game%20-%20Web/_apis/build/status/okoudje.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jyable/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
