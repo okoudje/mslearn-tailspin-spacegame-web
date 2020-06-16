@@ -26,7 +26,7 @@ steps:
   displayName: 'Prepare SonarCloud analysis'
   inputs:
     SonarCloud: 'SonarCloud connection 1'
-    organization: '$($(sonarProjectOrganisation))'
+    organization: '$(sonarProjectOrganisation)'
     scannerMode: 'MSBuild'
     projectKey: '$(sonarProjectKey)'
     projectName: '$(sonarProjectName)'
