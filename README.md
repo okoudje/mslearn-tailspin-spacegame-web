@@ -2,7 +2,10 @@
 
 [![Build Status](https://dev.azure.com/jyable/Space%20Game%20-%20Web/_apis/build/status/okoudje.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jyable/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
 
-commit test
+
+# Quality Status
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=okoudje_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=okoudje_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
