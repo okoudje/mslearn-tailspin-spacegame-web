@@ -6,6 +6,7 @@ pool:
   name: 'MyFirstAgentPool'
   demands:
     - npm
+    - java
 
 variables:
   buildConfiguration: 'Release'
